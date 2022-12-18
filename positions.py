@@ -1,0 +1,3 @@
+class Positions:
+    _positions = {}
+    
