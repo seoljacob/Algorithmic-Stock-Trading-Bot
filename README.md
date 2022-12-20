@@ -8,7 +8,7 @@ My bot is customizable, allowing users to adjust the moving averages and time fr
 With its advanced algorithms and customizable features, my algorithmic trading bot is a powerful tool for anyone looking to make informed and profitable trades in the fast-paced world of financial markets.
 
 ## With a starting capital of $100,000, my bot was able to grow its wealth to just over $170,000 in a span of 100 days, achieving an ROI of approximately 70%
-The results are excellent and although the bot was backtested using real stock market data, its performance is not guaranteed as it represents a specific period of time (July 29, 2022 to December 16, 2022). It may have varying results with different data sets.
+The results are excellent and although the bot was backtested using real stock market data, its performance is not guaranteed as it represents a specific period of time (July 29, 2022 to December 16, 2022). Thus it may have varying results with different data sets.
 
 TLDR: 5 transactions were made in the 100 day span.  
 
