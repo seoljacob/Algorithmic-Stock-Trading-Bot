@@ -17,7 +17,8 @@ https://user-images.githubusercontent.com/78764838/208560281-16cc3747-c544-4bd3-
 
 
 
-### Trends of Portfolio Value
+### Chart Showing Portfolio Performance
+The red lines signify a downwards trend and the green lines signify an upwards trend.
 ![image](https://user-images.githubusercontent.com/78764838/208559588-7d6929ee-7f1c-420c-81a8-9ffc72afb12b.png)
 
 ## Disclaimer
