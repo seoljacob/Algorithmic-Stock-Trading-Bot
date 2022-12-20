@@ -11,8 +11,8 @@ With its advanced algorithms and customizable features, my algorithmic trading b
 The results are excellent and although the bot was backtested using real stock market data, its performance is not guaranteed as it represents a specific period of time (July 29, 2022 to December 16, 2022). It may have varying results with different data sets.
 
 ### Watch the bot do its MAGIC :sparkles:
-TLDR: There were 3 trades in this 100 day period that the bot deemed optimal to purchase.  
-https://user-images.githubusercontent.com/78764838/208559372-8c0c8257-4917-49cb-a3be-4e04c14affc3.mov
+https://user-images.githubusercontent.com/78764838/208559372-8c0c8257-4917-49cb-a3be-4e04c14affc3.mov  
+TLDR: 3 trades were made in the 100 day span.
 
 ### Trends of Portfolio Value
 ![image](https://user-images.githubusercontent.com/78764838/208559588-7d6929ee-7f1c-420c-81a8-9ffc72afb12b.png)
