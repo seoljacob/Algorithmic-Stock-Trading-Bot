@@ -120,13 +120,9 @@ def main():
     sim = Simulater(Positions._positions, 100000)
 
     print(f'Starting balance: ${sim.cur_bal:.2f}')
-    final_balance = sim.run_simulation()
-    print(f'Final balance: ${final_balance:.2f}')
+    print(f'Ending balance: ${sim.run_simulation():.2f}')
 
     sim.get_portfolio_value_by_day()
-    for index, value in enumerate(sim.portfolio_val_by_day):
-        print(f'Day {index + 1}: ${value:.2f}')
-
     sim.display_trends()
 
 if __name__ == '__main__':
