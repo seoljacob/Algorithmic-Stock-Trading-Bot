@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/78764838/208560281-16cc3747-c544-4bd3-
 
 
 ## Portfolio Performance
-![image](https://user-images.githubusercontent.com/78764838/208559588-7d6929ee-7f1c-420c-81a8-9ffc72afb12b.png)
+![image](https://user-images.githubusercontent.com/78764838/208563900-cd44942a-09f3-47f5-af1c-d180cff3bfed.png)
 
 ## Disclaimer
 The information and materials provided by this algorithmic trading bot are for informational purposes only and are not intended to be, and should not be interpreted as, investment advice. The bot's performance and predictions are based on historical data and should not be relied upon as a guarantee of future performance. The bot is not responsible for any losses that may occur as a result of using the bot's services, and users should carefully consider their own financial situation and risk tolerance before making any investment decisions. The bot is not affiliated with any financial institution or regulatory body and is not regulated as a financial advisor.
