@@ -1,4 +1,4 @@
-import preprocesser as pr
+import preprocessor as pr
 from positions import Positions
 import warnings
 import matplotlib.pyplot as plt
