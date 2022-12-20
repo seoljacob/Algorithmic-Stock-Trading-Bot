@@ -10,7 +10,7 @@ With its advanced algorithms and customizable features, my algorithmic trading b
 ## With a starting capital of $100,000, my bot was able to grow its wealth to just over $170,000 in a span of 100 days, achieving an ROI of approximately 70%
 The results are excellent and although the bot was backtested using real stock market data, its performance is not guaranteed as it represents a specific period of time (July 29, 2022 to December 16, 2022). It may have varying results with different data sets.
 
-TLDR: 3 trades were made in the 100 day span.  
+TLDR: 5 transactions were made in the 100 day span.  
 
 
 https://user-images.githubusercontent.com/78764838/208560281-16cc3747-c544-4bd3-ada9-9ebe0de928f8.mov
