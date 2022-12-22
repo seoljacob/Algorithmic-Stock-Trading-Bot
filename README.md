@@ -8,9 +8,9 @@ My bot is customizable, allowing users to adjust the moving averages and time fr
 With its advanced algorithms and customizable features, my algorithmic trading bot is a powerful tool for anyone looking to make informed and profitable trades in the fast-paced world of financial markets.
 
 ## With a starting capital of $100,000, my bot was able to grow its wealth to just over $170,000 in a span of 100 days, achieving an ROI of approximately 70%
-The results are excellent and although the bot was backtested using real stock market data, its performance is not guaranteed as it represents a specific time period (July 29, 2022 to December 16, 2022). Thus it may have varying results.
+Although the results are excellent and seemingly rigorous (as it was backtested using real stock market data), its performance is not guaranteed as it represents a specific time period (July 29, 2022 to December 16, 2022). Thus it may have varying results.
 
-TLDR: 5 transactions were made in the 100 day span.  
+5 transactions were made in the 100 day span.
 
 
 https://user-images.githubusercontent.com/78764838/208560281-16cc3747-c544-4bd3-ada9-9ebe0de928f8.mov
@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/78764838/208560281-16cc3747-c544-4bd3-
 
 
 ## Portfolio Performance
-![image](https://user-images.githubusercontent.com/78764838/208563900-cd44942a-09f3-47f5-af1c-d180cff3bfed.png)
+![Portfolio Performance](https://user-images.githubusercontent.com/78764838/209039716-e2610d25-0dca-4e8c-9cb7-215371b4f7cf.png)
 
 ## Disclaimer
 The information and materials provided by this algorithmic trading bot are for informational purposes only and are not intended to be, and should not be interpreted as, investment advice. The bot's performance and predictions are based on historical data and should not be relied upon as a guarantee of future performance. The bot is not responsible for any losses that may occur as a result of using the bot's services, and users should carefully consider their own financial situation and risk tolerance before making any investment decisions. The bot is not affiliated with any financial institution or regulatory body and is not regulated as a financial advisor.
